@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="79">
+	<author>loki_79</author>
+    <version>1.0.0.0</version>
+	<title>
+        <en>001 NO DELETE</en>
+    </title>
+    <description>
+<en><![CDATA[
+]]>
+</en>
+    </description>
+	
+	<multiplayer supported="true" />
+	<iconFilename>modIcon.dds</iconFilename>
+		
+	<extraSourceFiles>
+		<sourceFile filename="NoDelete.lua" />
+	</extraSourceFiles>
+	
+</modDesc>
